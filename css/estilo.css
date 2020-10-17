@@ -1918,7 +1918,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		color: transparent;
-		background:url('../img/colombia.png') no-repeat 0 -20px;
+		background:url('../img/colombia.jpg') no-repeat 0 -20px;
 	}
 }	
 @media screen and (max-width:1440px){ 
@@ -1933,7 +1933,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		color: transparent;
-		background:url('../img/colombia.png') no-repeat 0 -20px;
+		
 	}
 }	
 @media screen and (max-width:1270px){ 
@@ -1948,7 +1948,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		color: transparent;
-		background:url('../img/colombia.png') no-repeat 0 -20px;
+		
 	}
 }
 @media screen and (max-width:1100px){ 
@@ -1963,7 +1963,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		color: transparent;
-		background:url('../img/colombia.png') no-repeat 0 -20px;
+		
 	}
 }
 @media screen and (max-width:880px){ 
@@ -1978,7 +1978,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		color: transparent;
-		background:url('../img/colombia.png') no-repeat 0 -20px;
+		
 	}
 }
 @media screen and (max-width:790px){ 
@@ -1994,7 +1994,7 @@ body a:hover{
 		background: linear-gradient(#000000,#383838);
 		color: transparent;
 		
-		background:url('../img/colombia.png') no-repeat 0 -20px;
+		
 
 	}
 }
@@ -2010,7 +2010,7 @@ body a:hover{
 	margin: 10px;
 	background: linear-gradient(#000000,#383838);
 	  color: transparent;
-	  background:url('../img/mexico.png') no-repeat 0 -20px;
+	  background:url('../img/mexico.jpg') no-repeat 0 -20px;
 	  box-sizing: border-box;
 }
 @media screen and (max-width:1530px){ 
@@ -2025,7 +2025,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/mexico.png') no-repeat 0 -20px;
+		  
 	}
 }
 @media screen and (max-width:1440px){ 
@@ -2040,7 +2040,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/mexico.png') no-repeat 0 -20px;
+		  
 	}
 }
 @media screen and (max-width:1270px){ 
@@ -2055,7 +2055,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/mexico.png') no-repeat 0 -20px;
+		  
 	}
 }
 @media screen and (max-width:1100px){ 
@@ -2070,7 +2070,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/mexico.png') no-repeat 0 -20px;
+		
 	}
 }
 @media screen and (max-width:880px){ 
@@ -2085,7 +2085,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/mexico.png') no-repeat 0 -20px;
+		
 	}
 }
 @media screen and (max-width:790px){ 
@@ -2100,7 +2100,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/mexico.png') no-repeat 0 -20px;
+	
 	}
 }
 
@@ -2116,7 +2116,7 @@ body a:hover{
 	margin: 10px;
 	background: linear-gradient(#000000,#383838);
 	  color: transparent;
-	  background:url('../img/brasil.png') no-repeat 0 -20px;
+	  background:url('../img/brasil.jpg') no-repeat 0 -20px;
 	  box-sizing: border-box;
 }
 @media screen and (max-width:1530px){ 
@@ -2131,7 +2131,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/brasil.png') no-repeat 0 -20px;
+		
 	}
 }
 @media screen and (max-width:1440px){ 
@@ -2146,7 +2146,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/brasil.png') no-repeat 0 -20px;
+		
 	}
 }
 @media screen and (max-width:1270px){ 
@@ -2161,7 +2161,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/brasil.png') no-repeat 0 -20px;
+		  
 	}
 }
 @media screen and (max-width:1100px){ 
@@ -2176,7 +2176,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/brasil.png') no-repeat 0 -20px;
+	
 	}
 }
 @media screen and (max-width:880px){ 
@@ -2191,7 +2191,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/brasil.png') no-repeat 0 -20px;
+		
 	}
 }
 @media screen and (max-width:790px){ 
@@ -2206,7 +2206,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/brasil.png') no-repeat 0 -20px;
+		
 	}
 }
 
@@ -2221,7 +2221,7 @@ body a:hover{
 	margin: 10px;
 	background: linear-gradient(#000000,#383838);
 	  color: transparent;
-	  background:url('../img/estados.png') no-repeat 0 -20px;
+	  background:url('../img/estados.jpg') no-repeat 0 -20px;
 	  box-sizing: border-box;
 }
 @media screen and (max-width:1530px){ 
@@ -2236,7 +2236,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/estados.png') no-repeat 0 -20px;
+		
 	}
 }
 @media screen and (max-width:1440px){ 
@@ -2251,7 +2251,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/estados.png') no-repeat 0 -20px;
+		 
 	}
 }
 @media screen and (max-width:1270px){ 
@@ -2266,7 +2266,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/estados.png') no-repeat 0 -20px;
+		 
 	}
 }
 @media screen and (max-width:1100px){ 
@@ -2281,7 +2281,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/estados.png') no-repeat 0 -20px;
+		 
 	}
 }
 @media screen and (max-width:880px){ 
@@ -2296,7 +2296,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/estados.png') no-repeat 0 -20px;
+	
 	}
 }
 @media screen and (max-width:790px){ 
@@ -2311,7 +2311,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/estados.png') no-repeat 0 -20px;
+		
 	}
 }
 
@@ -2327,7 +2327,7 @@ body a:hover{
 	margin: 10px;
 	background: linear-gradient(#000000,#383838);
 	  color: transparent;
-	  background:url('../img/british.png') no-repeat 0 -20px;
+	  background:url('../img/british.jpg') no-repeat 0 -20px;
 	  box-sizing: border-box;
 }
 @media screen and (max-width:1530px){
@@ -2342,7 +2342,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/british.png') no-repeat 0 -20px;
+		
 	}
 }
 @media screen and (max-width:1440px){
@@ -2357,7 +2357,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/british.png') no-repeat 0 -20px;
+		
 	}
 }
 @media screen and (max-width:1270px){
@@ -2372,7 +2372,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/british.png') no-repeat 0 -20px;
+		
 	}
 }
 @media screen and (max-width:1100px){
@@ -2387,7 +2387,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/british.png') no-repeat 0 -20px;
+		
 	}
 }
 @media screen and (max-width:880px){
@@ -2402,7 +2402,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/british.png') no-repeat 0 -20px;
+		 
 	}
 }
 @media screen and (max-width:790px){
@@ -2417,7 +2417,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/british.png') no-repeat 0 -20px;
+		  
 	}
 }
 
@@ -2432,7 +2432,7 @@ body a:hover{
 	margin: 10px;
 	background: linear-gradient(#000000,#383838);
 	  color: transparent;
-	  background:url('../img/rusia.png') no-repeat 0 -0px;
+	  background:url('../img/rusia.jpg') no-repeat 0 -0px;
 	  box-sizing: border-box;
 }
 @media screen and (max-width:1530px){
@@ -2447,7 +2447,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/rusia.png') no-repeat 0 -0px;
+		 
 	}
 }
 @media screen and (max-width:1440px){
@@ -2462,7 +2462,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/rusia.png') no-repeat 0 -0px;
+		  
 	}
 }
 @media screen and (max-width:1270px){
@@ -2477,7 +2477,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/rusia.png') no-repeat 0 -0px;
+		  
 	}
 }
 @media screen and (max-width:1100px){
@@ -2492,7 +2492,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/rusia.png') no-repeat 0 -0px;
+		 
 	}
 }
 @media screen and (max-width:880px){
@@ -2507,7 +2507,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/rusia.png') no-repeat 0 -0px;
+		  
 	}
 }
 @media screen and (max-width:790px){
@@ -2522,7 +2522,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/rusia.png') no-repeat 0 -0px;
+		
 	}
 }
 
@@ -2537,7 +2537,7 @@ body a:hover{
 	margin: 10px;
 	background: linear-gradient(#000000,#383838);
 	  color: transparent;
-	  background:url('../img/sud.png') no-repeat 0 -20px;
+	  background:url('../img/sud.jpg') no-repeat 0 -20px;
 	  box-sizing: border-box;
 }
 @media screen and (max-width:1530px){
@@ -2552,7 +2552,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/sud.png') no-repeat 0 -20px;
+		 
 	}
 }
 @media screen and (max-width:1440px){
@@ -2567,7 +2567,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/sud.png') no-repeat 0 -20px;
+		
 	}
 }
 @media screen and (max-width:1270px){
@@ -2582,7 +2582,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/sud.png') no-repeat 0 -20px;
+		  
 	}
 }
 @media screen and (max-width:1100px){
@@ -2597,7 +2597,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/sud.png') no-repeat 0 -20px;
+		  
 	}
 }
 @media screen and (max-width:880px){
@@ -2612,7 +2612,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/sud.png') no-repeat 0 -20px;
+		 
 	}
 }
 @media screen and (max-width:790px){
@@ -2627,7 +2627,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/sud.png') no-repeat 0 -20px;
+		
 	}
 }
 
@@ -2642,7 +2642,7 @@ body a:hover{
 	margin: 10px;
 	background: linear-gradient(#000000,#383838);
 	  color: transparent;
-	  background:url('../img/peru.png') no-repeat 0 -20px;
+	  background:url('../img/peru.jpg') no-repeat 0 -20px;
 	  box-sizing: border-box;
 }
 @media screen and (max-width:1530px){
@@ -2657,7 +2657,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/peru.png') no-repeat 0 -20px;
+		 
 	}
 }
 @media screen and (max-width:1440px){
@@ -2672,7 +2672,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/peru.png') no-repeat 0 -20px;
+		 
 	}
 }
 @media screen and (max-width:1270px){
@@ -2687,7 +2687,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/peru.png') no-repeat 0 -20px;
+		 
 	}
 }
 @media screen and (max-width:1100px){
@@ -2702,7 +2702,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/peru.png') no-repeat 0 -20px;
+		 
 	}
 }
 @media screen and (max-width:880px){
@@ -2717,7 +2717,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/peru.png') no-repeat 0 -20px;
+		
 	}
 }
 @media screen and (max-width:790px){
@@ -2732,7 +2732,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/peru.png') no-repeat 0 -20px;
+		
 	}
 }
 
@@ -2747,7 +2747,7 @@ body a:hover{
 	margin: 10px;
 	background: linear-gradient(#000000,#383838);
 	  color: transparent;
-	  background:url('../img/argentina.png') no-repeat 0 -20px;
+	  background:url('../img/argentina.jpg') no-repeat 0 -20px;
 	  box-sizing: border-box;
 }
 @media screen and (max-width:1530px){
@@ -2762,7 +2762,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/argentina.png') no-repeat 0 -20px;
+		
 	}
 }
 @media screen and (max-width:1440px){
@@ -2777,7 +2777,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/argentina.png') no-repeat 0 -20px;
+		  
 	}
 }
 @media screen and (max-width:1270px){
@@ -2792,7 +2792,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/argentina.png') no-repeat 0 -20px;
+		
 	}
 }
 @media screen and (max-width:1100px){
@@ -2807,7 +2807,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/argentina.png') no-repeat 0 -20px;
+		  
 	}
 }
 @media screen and (max-width:880px){
@@ -2822,7 +2822,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/argentina.png') no-repeat 0 -20px;
+		 
 	}
 }
 @media screen and (max-width:790px){
@@ -2837,7 +2837,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/argentina.png') no-repeat 0 -20px;
+	
 	}
 }
 
@@ -2852,7 +2852,7 @@ body a:hover{
 	margin: 10px;
 	background: linear-gradient(#000000,#383838);
 	  color: transparent;
-	  background:url('../img/chil.png') no-repeat 0 -20px;
+	  background:url('../img/chil.jpg') no-repeat 0 -20px;
 	  box-sizing: border-box;
 }
 @media screen and (max-width:1530px){
@@ -2867,7 +2867,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/chil.png') no-repeat 0 -20px;
+		  
 	}
 }
 @media screen and (max-width:1440px){
@@ -2882,7 +2882,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/chil.png') no-repeat 0 -20px;
+		 
 	}
 }
 @media screen and (max-width:1270px){
@@ -2897,7 +2897,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/chil.png') no-repeat 0 -20px;
+		  
 	}
 }
 @media screen and (max-width:1100px){
@@ -2912,7 +2912,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/chil.png') no-repeat 0 -20px;
+		  
 	}
 }
 @media screen and (max-width:880px){
@@ -2927,7 +2927,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/chil.png') no-repeat 0 -20px;
+		  
 	}
 }
 @media screen and (max-width:790px){
@@ -2957,7 +2957,7 @@ body a:hover{
 	margin: 10px;
 	background: linear-gradient(#000000,#383838);
 	  color: transparent;
-	  background:url('../img/cuba.png') no-repeat 0 -20px;
+	  background:url('../img/cuba.jpg') no-repeat 0 -20px;
 	  box-sizing: border-box;
 }
 @media screen and (max-width:1530px){
@@ -2972,7 +2972,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/cuba.png') no-repeat 0 -20px;
+		 
 	}
 }
 @media screen and (max-width:1440px){
@@ -2987,7 +2987,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/cuba.png') no-repeat 0 -20px;
+		
 	}
 }
 @media screen and (max-width:1270px){
@@ -3002,7 +3002,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/cuba.png') no-repeat 0 -20px;
+		  
 	}
 }
 @media screen and (max-width:1100px){
@@ -3017,7 +3017,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/cuba.png') no-repeat 0 -20px;
+		
 	}
 }
 @media screen and (max-width:880px){
@@ -3032,7 +3032,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/cuba.png') no-repeat 0 -20px;
+		  
 	}
 }
 @media screen and (max-width:790px){
@@ -3047,7 +3047,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/cuba.png') no-repeat 0 -20px;
+		 
 	}
 }
 
@@ -3062,7 +3062,7 @@ body a:hover{
 	margin: 10px;
 	background: linear-gradient(#000000,#383838);
 	  color: transparent;
-	  background:url('../img/bolivia.png') no-repeat 0 -20px;
+	  background:url('../img/bolivia.jpg') no-repeat 0 -20px;
 	  box-sizing: border-box;
 }
 @media screen and (max-width:1530px){
@@ -3077,7 +3077,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/bolivia.png') no-repeat 0 -20px;
+		
 	}
 }
 @media screen and (max-width:1440px){
@@ -3092,7 +3092,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/bolivia.png') no-repeat 0 -20px;
+		
 	}
 }
 @media screen and (max-width:1270px){
@@ -3107,7 +3107,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/bolivia.png') no-repeat 0 -20px;
+		  
 	}
 }
 @media screen and (max-width:1100px){
@@ -3122,7 +3122,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/bolivia.png') no-repeat 0 -20px;
+		  
 	}
 }
 @media screen and (max-width:880px){
@@ -3137,7 +3137,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/bolivia.png') no-repeat 0 -20px;
+		  
 	}
 }
 @media screen and (max-width:790px){
@@ -3152,7 +3152,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/bolivia.png') no-repeat 0 -20px;
+		 
 	}
 }
 
@@ -3167,7 +3167,7 @@ body a:hover{
 	margin: 10px;
 	background: linear-gradient(#000000,#383838);
 	  color: transparent;
-	  background:url('../img/china.png') no-repeat 0 -20px;
+	  background:url('../img/china.jpg') no-repeat 0 -20px;
 	  box-sizing: border-box;
 
 }
@@ -3183,7 +3183,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/china.png') no-repeat 0 -20px;
+		
 	
 	}
 }
@@ -3199,7 +3199,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/china.png') no-repeat 0 -20px;
+		 
 	
 	}
 }
@@ -3215,7 +3215,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/china.png') no-repeat 0 -20px;
+		  
 	
 	}
 }
@@ -3231,7 +3231,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/china.png') no-repeat 0 -20px;
+		 
 	
 	}
 }
@@ -3247,7 +3247,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/china.png') no-repeat 0 -20px;
+		
 	
 	}
 }
@@ -3263,7 +3263,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/china.png') no-repeat 0 -20px;
+		
 	
 	}
 }
@@ -3279,7 +3279,7 @@ body a:hover{
 	margin: 10px;
 	background: linear-gradient(#000000,#383838);
 	  color: transparent;
-	  background:url('../img/india.png') no-repeat 0 -20px;
+	  background:url('../img/india.jpg') no-repeat 0 -20px;
 }
 @media screen and (max-width:1530px){
 	#cajas .caja14{
@@ -3293,7 +3293,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/india.png') no-repeat 0 -20px;
+		  
 	}
 }
 @media screen and (max-width:1440px){
@@ -3308,7 +3308,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/india.png') no-repeat 0 -20px;
+		 
 	}
 }
 @media screen and (max-width:1270px){
@@ -3323,7 +3323,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/india.png') no-repeat 0 -20px;
+		  
 	}
 }
 @media screen and (max-width:1110px){
@@ -3338,7 +3338,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/india.png') no-repeat 0 -20px;
+		 
 	}
 }
 @media screen and (max-width:880px){
@@ -3353,7 +3353,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/india.png') no-repeat 0 -20px;
+		  
 	}
 }
 @media screen and (max-width:790px){
@@ -3368,7 +3368,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/india.png') no-repeat 0 -20px;
+		
 	}
 }
 
@@ -3383,7 +3383,7 @@ body a:hover{
 	margin: 10px;
 	background: linear-gradient(#000000,#383838);
 	  color: transparent;
-	  background:url('../img/japon.png') no-repeat 0 -20px;
+	  background:url('../img/japon.jpg') no-repeat 0 -20px;
 }
 @media screen and (max-width:1530px){
 	#cajas .caja15{
@@ -3397,7 +3397,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/japon.png') no-repeat 0 -20px;
+		
 	}
 }
 @media screen and (max-width:1440px){
@@ -3412,7 +3412,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/japon.png') no-repeat 0 -20px;
+		
 	}
 }
 @media screen and (max-width:1270px){
@@ -3427,7 +3427,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/japon.png') no-repeat 0 -20px;
+		 
 	}
 }
 @media screen and (max-width:1100px){
@@ -3442,7 +3442,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/japon.png') no-repeat 0 -20px;
+		  
 	}
 }
 @media screen and (max-width:880px){
@@ -3457,7 +3457,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/japon.png') no-repeat 0 -20px;
+		  
 	}
 }
 @media screen and (max-width:790px){
@@ -3472,7 +3472,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		  color: transparent;
-		  background:url('../img/japon.png') no-repeat 0 -20px;
+		 
 	}
 }
 
