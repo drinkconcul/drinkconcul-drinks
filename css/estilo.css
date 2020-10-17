@@ -1902,7 +1902,7 @@ body a:hover{
 	margin: 10px;
 	background: linear-gradient(#000000,#383838);
 	color: transparent;
-	background:url('../img/colombia.png') no-repeat 0 -20px;
+	background:url('../img/colombia.jpg') no-repeat 0 -20px;
 	
 	box-sizing: border-box;
 }
@@ -1918,7 +1918,7 @@ body a:hover{
 		margin: 10px;
 		background: linear-gradient(#000000,#383838);
 		color: transparent;
-		background:url('../img/colombia.jpg') no-repeat 0 -20px;
+		
 	}
 }	
 @media screen and (max-width:1440px){ 
